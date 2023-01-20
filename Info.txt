@@ -1,0 +1,5 @@
+Firebase Project Name - SUTT 2 Sth
+
+Project ID - sutt-2-sth
+
+Android Package Name - com.example.sutt_2_sth1
